@@ -58,6 +58,10 @@ Samt dette billede:
 
 ___
 
+# Photos
+Jeg har lagt alle billeder fra rapporten ind i mappen [photos](/photos), da jeg tænkte at det kan være rart nok at kunne se dem i stor størrelse.
+___
+
 
 # Licens
 Koden er licenceret under [GPL-3.0](/LICENSE)
